@@ -49,6 +49,8 @@ $ npm start
 ### Todos
 
  - More stability Testing
+ - Music System
+ - Reminders System
  - Dont Explode
 
 ```
